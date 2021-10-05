@@ -12,4 +12,5 @@
 🔗 LinkedIn : https://www.linkedin.com/in/aziiza-yuda-yahya-845946141 <br>
 🔗 Instagram : https://www.instagram.com/yudayahya <br>
 🔗 Twitter : https://twitter.com/yudayahyayuda <br>
+🔗 Portfolio : https://yudayahya.vercel.app/ <br>
 </p>
