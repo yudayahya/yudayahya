@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/yudayahya/yudayahya/main/public/images/bg-banner.jpeg"/>
- <hr></hr>
+<hr>
 <p align="center">
 🔭 I’m currently working on development web and mobile apps, including backend & frontend especially backend.<br>
 🌱 I’m currently learning laravel, codeigniter, django, express, vue, and react.<br>
-👯 I’m looking to collaborate on build some huge mobile or web apps.<br>
+👯 I’m looking to collaborate on build some huge web/mobile apps.<br>
 🤔 I’m looking for help with those what im learning :D<br>
 💬 Ask me about those what im learning :D<br>
 📫 How to reach me: just commit and let's discuss on my repo.<br>
