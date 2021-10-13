@@ -16,7 +16,7 @@ const Hero = (props) => (
       🌱 I’m currently learning laravel, codeigniter, django, express, vue, and react |
       👯 I’m looking to work or collaborate on build some huge mobile or web apps.
       </SectionText>
-      <a href="https://github.com/yudayahya" target="_blank"><Button>See My Resume</Button></a>
+      <a href="https://drive.google.com/file/d/1dRGsmBKRF-KmjwZ3-VRq4eoCfLlk_ke3/view?usp=sharing" target="_blank"><Button>See My Resume</Button></a>
     </LeftSection>
   </Section>
 );
